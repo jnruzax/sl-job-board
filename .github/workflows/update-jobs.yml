@@ -1,0 +1,31 @@
+name: Daily Free Job Scraper
+
+on:
+  schedule:
+    - cron: '30 4 * * *' # ලංකාවේ වෙලාවෙන් හැමදාම උදේ 10:00 ට auto run වේ
+  workflow_dispatch: # ඕන වෙලාවක අපිටම බටන් එක ඔබලා රන් කරන්න පුළුවන්
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Free Scraper
+        run: node fetch_jobs.js
+
+      - name: Commit & Push to GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add jobs.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Free Auto-Scraped Jobs" && git push)
