@@ -1,143 +1,283 @@
 {
-  "updatedAt": "2026-06-18T09:02:52.398Z",
+  "updatedAt": "2026-06-19T09:20:29.037Z",
   "jobs": [
     {
-      "title": "GCE O/L Results 2025(2026)  Doenets.lk Department of Education, Sri Lanka",
-      "url": "https://www.gazette.lk/2026/06/o-l-results-20252026-doenets-lk-department-of-education-sri-lanka.html",
-      "date": "2026-06-18",
-      "cat": "Government Job",
-      "srcId": "gazette"
+      "title": "Marketing Officer at Seylan Bank Job Vacancies",
+      "url": "https://nearjobs.lk/bank-job/marketing-officer-at-seylan-bank-job-vacancies/",
+      "date": "2026-06-19",
+      "cat": "Bank Job",
+      "srcId": "nearjobs"
     },
     {
-      "title": "www doenets lk 2025(2026) GCE O/L Results",
-      "url": "https://www.gazette.lk/2026/06/www-doenets-lk-20252026-gce-o-l-results.html",
-      "date": "2026-06-18",
-      "cat": "Government Job",
-      "srcId": "gazette"
+      "title": "Management Assistant Job Vacancies  National Film Corporation",
+      "url": "https://nearjobs.lk/government-jobs/management-assistant-job-vacancies-national-film-corporation/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
     },
     {
-      "title": "Sri Lankan Ministry of Education  moe.gov.lk",
-      "url": "https://www.gazette.lk/2026/06/sri-lankan-ministry-of-education.html",
-      "date": "2026-06-18",
-      "cat": "Government Job",
-      "srcId": "gazette"
+      "title": "Office Assistant Job Vacancies at Simplebooks (PVT) Ltd",
+      "url": "https://nearjobs.lk/company-job/office-assistant-job-vacancies-at-simplebooks-pvt-ltd/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
     },
     {
-      "title": "GCE A/L Time Table PDF 2026 Sri Lanka  www.doenets.lk",
-      "url": "https://www.gazette.lk/2026/06/gce-a-l-time-table-pdf-2026-sri-lanka-www-doenets-lk.html",
-      "date": "2026-06-18",
-      "cat": "Government Job",
-      "srcId": "gazette"
+      "title": "Union Assurance Officer Job Vacancies",
+      "url": "https://nearjobs.lk/bank-job/union-assurance-officer-job-vacancies/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Customer Service Officer  CDB Bank Job Vacancies 2026",
+      "url": "https://nearjobs.lk/bank-job/customer-service-officer-cdb-bank-job-vacancies-2026/",
+      "date": "2026-06-19",
+      "cat": "Bank Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Internship Job Vacancies  Brandix Lanka Ltd",
+      "url": "https://nearjobs.lk/company-job/internship-job-vacancies-brandix-lanka-ltd/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Teaching Assistant Job Vacancies  SLTC",
+      "url": "https://nearjobs.lk/government-jobs/teaching-assistant-job-vacancies-sltc/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Nursing Training Course 2026  Ministry of Health",
+      "url": "https://nearjobs.lk/government-jobs/nursing-training-course-2026-ministry-of-health/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "CBL Assistant Manager Job Vacancies 2026",
+      "url": "https://nearjobs.lk/company-job/cbl-assistant-manager-job-vacancies-2026/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Card Sales  Marketing Associate at Commercial Bank Job Vacancies 2026",
+      "url": "https://nearjobs.lk/bank-job/card-sales-marketing-associate-at-commercial-bank-job-vacancies-2026/",
+      "date": "2026-06-19",
+      "cat": "Bank Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "HR Internship Job Vacancies at Ceylon Biscuit Company",
+      "url": "https://nearjobs.lk/company-job/hr-internship-job-vacancies-at-ceylon-biscuit-company/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Trainee Customer Care Specialists  Nations Trust Bank Vacancies",
+      "url": "https://nearjobs.lk/bank-job/trainee-customer-care-specialists-nations-trust-bank-vacancies/",
+      "date": "2026-06-19",
+      "cat": "Bank Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Banking Assistant – Galle District Cooperative Rural Bank Association Vacancies",
+      "url": "https://nearjobs.lk/bank-job/banking-assistant-galle-district-cooperative-rural-bank-association-vacancies/",
+      "date": "2026-06-19",
+      "cat": "Bank Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "JMC International College Job Vacancies for Teachers",
+      "url": "https://nearjobs.lk/company-job/jmc-international-college-job-vacancies-for-teachers/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Security Officer  Lake House Job Vacancies",
+      "url": "https://nearjobs.lk/government-jobs/security-officer-lake-house-job-vacancies/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Page Designer at Lake House Job Vacancies 2026",
+      "url": "https://nearjobs.lk/government-jobs/page-designer-at-lake-house-job-vacancies-2026/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Legal Assistant, Court Assistant  University of Colombo Vacancies 2026",
+      "url": "https://nearjobs.lk/government-jobs/legal-assistant-court-assistant-university-of-colombo-vacancies-2026/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "HR Internship  Mas Holdings Job Vacancies",
+      "url": "https://nearjobs.lk/company-job/hr-internship-mas-holdings-job-vacancies/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Wayamba University Nurse Job Vacancies 2026",
+      "url": "https://nearjobs.lk/government-jobs/wayamba-university-nurse-job-vacancies-2026/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Management Assistant Vacancies 2026 at University of Ruhuna",
+      "url": "https://nearjobs.lk/government-jobs/management-assistant-vacancies-2026-at-university-of-ruhuna/",
+      "date": "2026-06-19",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
     },
     {
       "title": "Department of Examinations (DOE) Sri Lanka  Doenets.lk",
       "url": "https://www.gazette.lk/2026/06/department-of-examination-sri-lanka-doenets-lk.html",
-      "date": "2026-06-18",
-      "cat": "Government Job",
-      "srcId": "gazette"
-    },
-    {
-      "title": "Fuelpass.gov.lk Online Application for QR Code Generation",
-      "url": "https://www.gazette.lk/2026/06/fuelpass-gov-lk-register-for-national-fuel-pass-qr-code-generation-online-application.html",
-      "date": "2026-06-18",
-      "cat": "Government Job",
-      "srcId": "gazette"
-    },
-    {
-      "title": "SLBFE Sri Lanka Bureau of Foreign Employment  slbfe.lk",
-      "url": "https://www.gazette.lk/2026/06/sri-lanka-bureau-of-foreign-employment-slbfe-slbfe-lk.html",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
       "title": "GCE OL Results Release Date and Time 2025(2026)   www.doenets.lk",
       "url": "https://www.gazette.lk/2026/06/gce-ol-results-release-date-and-time-20252026-www-doenets-lk.html",
-      "date": "2026-06-18",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "GCE Ordinary Level in Sri Lanka 2026",
-      "url": "https://www.gazette.lk/2026/06/gce-ordinary-level-in-sri-lanka.html",
-      "date": "2026-06-18",
+      "title": "GCE O/L Results 2025(2026)  Doenets.lk Department of Education, Sri Lanka",
+      "url": "https://www.gazette.lk/2026/06/o-l-results-20252026-doenets-lk-department-of-education-sri-lanka.html",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Teaching Assistant  SLTC Research University Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/teaching-assistant-sltc-research-university-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "www doenets lk 2025(2026) GCE O/L Results",
+      "url": "https://www.gazette.lk/2026/06/www-doenets-lk-20252026-gce-o-l-results.html",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Lecturer, Senior Lecturer (Cloud Computing)  SLTC Research University Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/lecturer-senior-lecturer-cloud-computing-sltc-research-university-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "Sri Lankan Ministry of Education  moe.gov.lk",
+      "url": "https://www.gazette.lk/2026/06/sri-lankan-ministry-of-education.html",
+      "date": "2026-06-19",
+      "cat": "Government Job",
+      "srcId": "gazette"
+    },
+    {
+      "title": "GCE A/L Time Table PDF 2026 Sri Lanka  www.doenets.lk",
+      "url": "https://www.gazette.lk/2026/06/gce-a-l-time-table-pdf-2026-sri-lanka-www-doenets-lk.html",
+      "date": "2026-06-19",
+      "cat": "Government Job",
+      "srcId": "gazette"
+    },
+    {
+      "title": "Sri Lanka Government Gazette 2026 June 19 Sinhala Tamil English",
+      "url": "https://www.gazette.lk/2026/06/sri-lanka-government-gazette-2026-june-19-sinhala-tamil-english.html",
+      "date": "2026-06-19",
+      "cat": "Government Job",
+      "srcId": "gazette"
+    },
+    {
+      "title": "Temporary Research Assistant  Uva Wellassa University Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/06/temporary-research-assistant-uva-wellassa-university-vacancies-2026.html",
+      "date": "2026-06-19",
+      "cat": "Government Job",
+      "srcId": "gazette"
+    },
+    {
+      "title": "Research Assistant  University of the Visual  Performing Arts Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/06/research-assistant-university-of-the-visual-performing-arts-vacancies-2026.html",
+      "date": "2026-06-19",
+      "cat": "Government Job",
+      "srcId": "gazette"
+    },
+    {
+      "title": "Coordinator  University of Kelaniya Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/06/coordinator-university-of-kelaniya-vacancies-2026.html",
+      "date": "2026-06-19",
+      "cat": "Government Job",
+      "srcId": "gazette"
+    },
+    {
+      "title": "Project Assistant,  Programme Assistant  University of Colombo 2026 Job Vacancies",
+      "url": "https://govjobs.lk/project-assistant-programme-assistant-university-of-colombo-2026-job-vacancies/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Lecturer, Senior Lecturer (Data Science)  SLTC Research University Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/lecturer-senior-lecturer-data-science-sltc-research-university-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "Temporary Assistant Lecturer  University of Colombo 2026 Job Vacancies",
+      "url": "https://govjobs.lk/temporary-assistant-lecturer-university-of-colombo-2026-job-vacancies/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Lecturer, Senior Lecturer (Cyber Security)  SLTC Research University Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/lecturer-senior-lecturer-cyber-security-sltc-research-university-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "Temporary Demonstrator  University of Jaffna Job Vacancies 2026",
+      "url": "https://govjobs.lk/temporary-demonstrator-university-of-jaffna-job-vacancies-2026/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Lecturer, Senior Lecturer (Software Engineering)  SLTC Research University Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/lecturer-senior-lecturer-software-engineering-sltc-research-university-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "Temporary Instructor  University of Jaffna Job Vacancies 2026",
+      "url": "https://govjobs.lk/temporary-instructor-university-of-jaffna-job-vacancies-2026/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Ministry of Health Student Nursing Training 2026: Apply Online",
-      "url": "https://www.gazette.lk/2026/06/ministry-of-health-student-nursing-training-2026-apply-online.html",
-      "date": "2026-06-18",
+      "title": "Temporary Facilitator  University of Jaffna Job Vacancies 2026",
+      "url": "https://govjobs.lk/temporary-facilitator-university-of-jaffna-job-vacancies-2026/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Registrar  Ayurveda Medical Council Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/registrar-ayurveda-medical-council-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "Temporary Coordinator, Fellow  University of Jaffna Job Vacancies 2026",
+      "url": "https://govjobs.lk/temporary-coordinator-fellow-university-of-jaffna-job-vacancies-2026/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Cyber Security Engineer, Accountant  Sri Lanka Army Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/cyber-security-engineer-accountant-sri-lanka-army-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "Coordinator  University of Kelaniya Job Vacancies 2026",
+      "url": "https://govjobs.lk/coordinator-university-of-kelaniya-job-vacancies-2026/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Appointment of Chairman and Members For Wakf Tribunal  Judicial Service Commission Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/appointment-of-chairman-and-members-for-wakf-tribunal-judicial-service-commission-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "Research Assistant  University of the Visual  Performing Arts (UVPA)",
+      "url": "https://govjobs.lk/research-assistant-university-of-the-visual-performing-arts-uvpa/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Deputy General Manager  Galle District Sanasa Union Limited Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/deputy-general-manager-galle-district-sanasa-union-limited-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "Temporary Research Assistant  Uva Wellassa University Job Vacancies 2026",
+      "url": "https://govjobs.lk/temporary-research-assistant-uva-wellassa-university-job-vacancies-2026/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Banking Assistant, Chief Manager  Galle District Cooperative Rural Bank Association Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/06/banking-assistant-chief-manager-galle-district-cooperative-rural-bank-association-vacancies-2026.html",
-      "date": "2026-06-18",
+      "title": "Manager, Procurement Officer, Record Keeper, Record Room Helper  National Insurance Trust Fund (NITF) Job Vacancies 2026",
+      "url": "https://govjobs.lk/manager-procurement-officer-record-keeper-record-room-helper-national-insurance-trust-fund-nitf-job-vacancies-2026/",
+      "date": "2026-06-19",
       "cat": "Government Job",
       "srcId": "govjobs"
     }
