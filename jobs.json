@@ -1,143 +1,283 @@
 {
-  "updatedAt": "2026-08-10T05:55:33.255Z",
+  "updatedAt": "2026-08-11T05:35:08.796Z",
   "jobs": [
     {
-      "title": "Para Medical Service Training Courses Application 2026  Ministry of Health  Mass Media",
-      "url": "https://www.gazette.lk/2026/08/para-medical-service-training-courses-application-2026-ministry-of-health-mass-media.html",
-      "date": "2026-08-10",
+      "title": "Accounts Clerk Job Vacancies in Gampaha  Damro",
+      "url": "https://nearjobs.lk/company-job/accounts-clerk-job-vacancies-in-gampaha-damro/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Driver  National Water Board Job Vacancies 2026",
+      "url": "https://nearjobs.lk/government-jobs/driver-national-water-board-job-vacancies-2026/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Agriculture Instructor / Research Assistant  Department of Agriculture Job Vacancies",
+      "url": "https://nearjobs.lk/government-jobs/agriculture-instructor-research-assistant-department-of-agriculture-job-vacancies/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Receptionist Job Vacancies  CDB Bank",
+      "url": "https://nearjobs.lk/bank-job/receptionist-job-vacancies-cdb-bank/",
+      "date": "2026-08-11",
+      "cat": "Bank Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Assistant Refinery Technician  Ceypetco Job Vacancies 2026",
+      "url": "https://nearjobs.lk/government-jobs/assistant-refinery-technician-ceypetco-job-vacancies-2026/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "NAITA Job Vacancies 2026",
+      "url": "https://nearjobs.lk/government-jobs/naita-job-vacancies-2026/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Customer Relations Officer at LB Finance Job Vacancies",
+      "url": "https://nearjobs.lk/bank-job/customer-relations-officer-at-lb-finance-job-vacancies/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "HR Internship Job Vacancies  Raigam Marketing Services (Pvt) Ltd",
+      "url": "https://nearjobs.lk/company-job/hr-internship-job-vacancies-raigam-marketing-services-pvt-ltd/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Bhiksu University Job Vacancies 2026",
+      "url": "https://nearjobs.lk/government-jobs/bhiksu-university-job-vacancies-2026/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Junior Executive, Assistant at Siyapatha Finance Job Vacancies",
+      "url": "https://nearjobs.lk/bank-job/junior-executive-assistant-at-siyapatha-finance-job-vacancies/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Union Assurance Receptionist Job Vacancies",
+      "url": "https://nearjobs.lk/bank-job/union-assurance-receptionist-job-vacancies/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "National Child Protection Authority Job Vacancies 2026",
+      "url": "https://nearjobs.lk/government-jobs/national-child-protection-authority-job-vacancies-2026/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Office Assistant Job Vacancies  National Institute of Co-operative Development",
+      "url": "https://nearjobs.lk/government-jobs/office-assistant-job-vacancies-national-institute-of-co-operative-development/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Management Assistant  University of Moratuwa Job Vacancies",
+      "url": "https://nearjobs.lk/government-jobs/management-assistant-university-of-moratuwa-job-vacancies/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Preschool Teachers Job Vacancies at Bright International School",
+      "url": "https://nearjobs.lk/company-job/preschool-teachers-job-vacancies-at-bright-international-school/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Internship  Lanka IOC Job Vacancies 2026",
+      "url": "https://nearjobs.lk/government-jobs/internship-lanka-ioc-job-vacancies-2026/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Human Resources Assistant at Damro Job Vacancies 2026",
+      "url": "https://nearjobs.lk/company-job/human-resources-assistant-at-damro-job-vacancies-2026/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Junior Executive  Vallibel Finance Job Vacancies",
+      "url": "https://nearjobs.lk/bank-job/junior-executive-vallibel-finance-job-vacancies/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Junior Executive at Siyapatha Finance Job Vacancies",
+      "url": "https://nearjobs.lk/bank-job/junior-executive-at-siyapatha-finance-job-vacancies/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Mas Holdings Human Resources Internship Job Vacancies",
+      "url": "https://nearjobs.lk/company-job/mas-holdings-human-resources-internship-job-vacancies/",
+      "date": "2026-08-11",
+      "cat": "Company Job",
+      "srcId": "nearjobs"
+    },
+    {
+      "title": "Structural Planning Engineer  Central Provincial Road Development Authority Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/structural-planning-engineer-central-provincial-road-development-authority-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Management Assistant  University of Moratuwa Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/management-assistant-university-of-moratuwa-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Management Assistant, Technical Officer  Institute of Allergology and Immunology Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/management-assistant-technical-officer-institute-of-allergology-and-immunology-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Management Assistant, Driver, Audit Assistant, Library Attendant, Caretaker, Cook, Works Aide, Lecturer  Bhiksu University of Sri Lanka Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/management-assistant-driver-audit-assistant-library-attendant-caretaker-cook-works-aide-lecturer-bhiksu-university-of-sri-lanka-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Electrician, Technician, Welder, Carpenter, Mechanic, Tinker, Sheet Metal Worker  DCSL Breweries Lanka Limited Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/electrician-technician-welder-carpenter-mechanic-tinker-sheet-metal-worker-dcsl-breweries-lanka-limited-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Driver, Planning Assistant, Program Assistant, Investigation Assistant, Secretary  More Vacancies  National Child Protection Authority 2026",
-      "url": "https://www.gazette.lk/2026/08/driver-planning-assistant-program-assistant-investigation-assistant-secretary-more-vacancies-national-child-protection-authority-2026.html",
-      "date": "2026-08-10",
+      "title": "Group Chief Supply Chain Officer  Management Systems Private Limited Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/group-chief-supply-chain-officer-management-systems-private-limited-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Director  Institute of Technology, University of Moratuwa Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/director-institute-of-technology-university-of-moratuwa-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Chief Operations Officer  Management Systems Private Limited Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/chief-operations-officer-management-systems-private-limited-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Assistant General Manager (Finance / Operations)  Lanka Sathosa Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/assistant-general-manager-finance-operations-lanka-sathosa-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Deputy General Manager, Assistant General Manager  Sri Lanka Climate Fund Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/deputy-general-manager-assistant-general-manager-sri-lanka-climate-fund-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Quantity Surveyor, Driver, Sociologist  National Water Supply and Drainage Board Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/quantity-surveyor-driver-sociologist-national-water-supply-and-drainage-board-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Deputy General Manager, Assistant General Manager  State Timber Corporation Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/deputy-general-manager-assistant-general-manager-state-timber-corporation-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Assistant Research Technologist  Industrial Technology Institute Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/assistant-research-technologist-industrial-technology-institute-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Lecturer, Senior Lecturer (ICT)  University College Batangala Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/lecturer-senior-lecturer-ict-university-college-batangala-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Senior Quality Assurance Officer, Senior Computer System Engineer  Industrial Technology Institute Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/senior-quality-assurance-officer-senior-computer-system-engineer-industrial-technology-institute-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Temporary Demonstrator  University College Batangala Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/temporary-demonstrator-university-college-batangala-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Plant Operator Technician  Sri Lanka Land Development Corporation Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/plant-operator-technician-sri-lanka-land-development-corporation-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Laboratory Assistant  University College Batangala Vacancies 2026",
+      "url": "https://www.gazette.lk/2026/08/laboratory-assistant-university-college-batangala-vacancies-2026.html",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "gazette"
     },
     {
-      "title": "Assistant Manager  The Institution of Engineers, Sri Lanka Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/assistant-manager-the-institution-of-engineers-sri-lanka-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Assistant Refinery Technician (Welder) – Ceylon Petroleum Corporation (CEYPETCO) Job Vacancies 2026",
+      "url": "https://www.govjobs.lk/assistant-refinery-technician-welder-ceylon-petroleum-corporation-ceypetco-job-vacancies-2026/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Computer Operator, Technical Officer, Administrative Officer, Audit Officer, Legal Officer, Management Officer  More BOI Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/computer-operator-technical-officer-administrative-officer-audit-officer-legal-officer-management-officer-more-boi-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Laboratory Assistant Vacancies 2026  – University College Batangala",
+      "url": "https://www.govjobs.lk/laboratory-assistant-vacancies-2026-university-college-batangala/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "GCE A/L Time Table PDF 2026 Sri Lanka (Amended)  www.doenets.lk",
-      "url": "https://www.gazette.lk/2026/08/gce-a-l-time-table-pdf-2026-sri-lanka-www-doenets-lk.html",
-      "date": "2026-08-10",
+      "title": "Temporary Demonstrator Vacancies 2026  – University College Batangala",
+      "url": "https://www.govjobs.lk/temporary-demonstrator-vacancies-2026-university-college-batangala/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Grade 5 Scholarship 2026 Exam Time Table  www.doenets.lk",
-      "url": "https://www.gazette.lk/2026/08/grade-5-scholarship-2026-exam-time-table-www-doenets-lk.html",
-      "date": "2026-08-10",
+      "title": "Lecturer, Senior Lecturer – University College Batangala Job Vacancies 2026",
+      "url": "https://www.govjobs.lk/lecturer-senior-lecturer-university-college-batangala-job-vacancies-2026/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Kandy Esala Perahera Time Table",
-      "url": "https://www.gazette.lk/2026/08/kandy-esala-perahera-time-table.html",
-      "date": "2026-08-10",
+      "title": "Management Assistant (Store-keeping)  University of Moratuwa 2026 Job Vacancies",
+      "url": "https://www.govjobs.lk/management-assistant-store-keeping-university-of-moratuwa-2026-job-vacancies/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Sri Lanka Government Gazette 2026 August 07 Sinhala Tamil English",
-      "url": "https://www.gazette.lk/2026/08/sri-lanka-government-gazette-2026-august-07-sinhala-tamil-english.html",
-      "date": "2026-08-10",
+      "title": "Driver, Board Secretary,Psychosocial Officer, Investigation Assistant  More Vacancies  National Child Protection Authority Job Vacancies 2026",
+      "url": "https://www.govjobs.lk/driver-board-secretarypsychosocial-officer-investigation-assistant-more-vacancies-national-child-protection-authority-job-vacancies-2026/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Executive (Trade Finance)  Cargills Bank Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/executive-trade-finance-cargills-bank-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Agriculture Instructor / Research Assistant / Soil Surveyor Vacancies 2026  Department of Agriculture (Open Exam)",
+      "url": "https://www.govjobs.lk/agriculture-instructor-research-assistant-soil-surveyor-vacancies-2026-department-of-agriculture-open-exam/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Credit Officer (Kuliyapitiya)  Cargills Bank Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/credit-officer-kuliyapitiya-cargills-bank-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Sri Lanka Government Gazette August 07 Sinhala English Tamil ( 2026-08-07 )",
+      "url": "https://www.govjobs.lk/sri-lanka-government-gazette-august-07-sinhala-english-tamil-2026-08-07/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Assistant Manager (Negombo)  Cargills Bank Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/assistant-manager-negombo-cargills-bank-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Senior Researcher, Senior Researcher, Assistant Director, Office Assistant  More Vacancies   National Institute of Co-operative Development Job Vacancies 2026",
+      "url": "https://www.govjobs.lk/senior-researcher-senior-researcher-assistant-director-office-assistant-more-vacancies-national-institute-of-co-operative-development-job-vacancies-2026/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     },
     {
-      "title": "Executive, Junior Executive (Gold Loan)  Cargills Bank Vacancies 2026",
-      "url": "https://www.gazette.lk/2026/08/executive-junior-executive-gold-loan-cargills-bank-vacancies-2026.html",
-      "date": "2026-08-10",
+      "title": "Deputy General Managers  State Timber Corporation Job Vacancies 2026",
+      "url": "https://www.govjobs.lk/deputy-general-managers-state-timber-corporation-job-vacancies-2026/",
+      "date": "2026-08-11",
       "cat": "Government Job",
       "srcId": "govjobs"
     }
